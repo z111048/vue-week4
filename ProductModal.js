@@ -92,10 +92,6 @@ export default {
             </div>
           </div>
           <div class="col-sm-8">
-            <pre>
-                  {{tempProduct}}
-              </pre
-            >
             <div class="mb-3">
               <label for="title" class="form-label">標題</label>
               <input
